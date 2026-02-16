@@ -1,0 +1,18 @@
+.image-hover{
+    cursor: pointer;
+    cursorcolorcolor: whitesmoke;
+    cursor:wait;
+    
+
+}
+
+.mouse-hover img{
+    width: 370px;
+    background-color: pink;
+
+
+}
+
+body{
+    background-color: pink;
+}

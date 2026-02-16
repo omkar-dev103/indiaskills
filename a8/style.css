@@ -1,0 +1,12 @@
+img{
+    background: transparent;
+}
+img::after{
+    color: yellow;
+}
+
+img:hover{
+    color: yellow;
+    background-color: yellow;
+    backdrop-filterclear: left;;
+}
